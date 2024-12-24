@@ -17,8 +17,6 @@ mybatis:
 aliyun:
   oss:
     endpoint:https://oss-cn-beijing.aliyuncs.com
-    access-key-id:LTAI5tBLN79UyrpoPXfmdYrJ
-    access-key-secret:heK3zHy8UUEz6K2D5BUbm01pfaATYP
-    bucket-name:thiswebmanagement
+
 
 
